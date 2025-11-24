@@ -1,1 +1,1 @@
-hello world im learnig how to code in the Odin project course
+hello world I'm learnig how to code in the Odin project course
