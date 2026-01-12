@@ -1,2 +1,3 @@
 # git_test
-Hello Odin
+Hello Odin!
+time to start learnig!
